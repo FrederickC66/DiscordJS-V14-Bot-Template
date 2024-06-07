@@ -46,3 +46,7 @@ module.exports = class extends Client {
         if (config.handler.deploy) deploy(this, config);
     };
 };
+
+/*
+:)
+*/
